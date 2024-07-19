@@ -1,3 +1,6 @@
+# Discord Channel
+- https://discord.gg/NGkMaPEKJ9
+
 # ROCORD-Rathena
 1. Apply Diff https://github.com/gamingmagic/ROCORD-Rathena/commit/ceb7b5e42db5c690c7a8e86cf225c7ccc5af6ba4
 2. Install NPM
