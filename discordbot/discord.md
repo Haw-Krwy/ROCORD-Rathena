@@ -13,7 +13,7 @@ Please follow the instruction bellow:
     "version": 1,
     "debug": 0,
     "display_name": "roCORD",
-    "token": "NDY4NTM2MTUyNjE4Njk2NzA4.DpWT3w.p0CGUK72FSvt0qcKr8XwtsmCdNE",
+    "token": "Your Token",
     "presence": "by Normynator",
     "channels" : {
         "general": "399436421378493102"
